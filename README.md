@@ -11,11 +11,12 @@ Trường: Đại học giao thông vận tải
 Cấu Trúc Thư Mục Tổng Quan
 
 ├── Tuan1
-│      ├──── Androi-Tuan1
 
-│      ├──── Anh-Tuan1.png 
+│        ├──── Androi-Tuan1
 
-|      ├──── Câu_hỏi_tuần1.docx
+│        ├──── Anh-Tuan1.png 
+
+|        ├──── Câu_hỏi_tuần1.docx
 
 │ 
 
