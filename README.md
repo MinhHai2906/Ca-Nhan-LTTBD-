@@ -1,6 +1,6 @@
 # File_LTTBDD_Bai_Tap
 
-Thông Tin Sinh Viên
+# Thông Tin Sinh Viên
 
 Họ tên: Nguyễn Minh Hải
 
@@ -12,18 +12,28 @@ Cấu Trúc Thư Mục Tổng Quan
 
 ├── Tuan1
 
-│        ├──── Androi-Tuan1
+│        ├── Androi-Tuan1
 
-│        ├──── Anh-Tuan1.png 
+│        ├── Anh-Tuan1.png 
 
-|        ├──── Câu_hỏi_tuần1.docx
+|        ├── Câu_hỏi_tuần1.docx
 
 │ 
 
 └── README.md
 
-Nội Dung Chi Tiết Từng Tuần
+# Cấu trúc thư mục:
+
+Gồm có 1 Folder Tuan1 và file README.md.
+
+Folder Tuan1 là nơi chứa các bài code androi studio, ảnh khi làm xong và file docx chứa câu trả lời cho tuần 1.
+
+File README.md mô tả chi tiết.
+
+# Nội Dung Chi Tiết Từng Tuần
+
 ⭐ Tuần 1 – Làm quen & Kiến thức cơ bản
+
 Tuần này gồm các bài tập giúp làm quen với môn học và nền tảng kiến thức.
 
 1 Mong muốn và định hướng của Bạn là gì sau khi học xong môn học là gì?
