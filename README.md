@@ -12,9 +12,13 @@ Cấu Trúc Thư Mục Tổng Quan
 
 ├── Tuan1
 │      ├──── Androi-Tuan1
+
 │      ├──── Anh-Tuan1.png 
+
 |      ├──── Câu_hỏi_tuần1.docx
+
 │ 
+
 └── README.md
 
 Nội Dung Chi Tiết Từng Tuần
